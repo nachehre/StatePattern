@@ -1,0 +1,16 @@
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\bin\Debug\net5.0\StatePattern_02.exe
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\bin\Debug\net5.0\StatePattern_02.deps.json
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\bin\Debug\net5.0\StatePattern_02.runtimeconfig.json
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\bin\Debug\net5.0\StatePattern_02.runtimeconfig.dev.json
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\bin\Debug\net5.0\StatePattern_02.dll
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\bin\Debug\net5.0\StatePattern_02.pdb
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\obj\Debug\net5.0\StatePattern_02.csproj.AssemblyReference.cache
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\obj\Debug\net5.0\StatePattern_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\obj\Debug\net5.0\StatePattern_02.AssemblyInfoInputs.cache
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\obj\Debug\net5.0\StatePattern_02.AssemblyInfo.cs
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\obj\Debug\net5.0\StatePattern_02.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\obj\Debug\net5.0\StatePattern_02.dll
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\obj\Debug\net5.0\refint\StatePattern_02.dll
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\obj\Debug\net5.0\StatePattern_02.pdb
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\obj\Debug\net5.0\StatePattern_02.genruntimeconfig.cache
+C:\Users\Mehdi.PC\source\repos\StatePattern_01\StatePattern_02\obj\Debug\net5.0\ref\StatePattern_02.dll
